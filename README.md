@@ -32,7 +32,7 @@ $ git clone https://github.com/yamisukii/StableCoin
 
 3. Navigate to the project directory:
 ```shell
-$ cd foundry-defi-stablecoin-f23
+$ cd StableCoin
 ```
 
 
